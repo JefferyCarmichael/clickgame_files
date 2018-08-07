@@ -1,5 +1,5 @@
 # Click Game: Top Click
-![Click Game](/public/images/clickg.jpg)
+![Click Game](./public/Images/clickg.jpg)
 ## Overview:
 The Clicky Game is memory game built with React. 
 
@@ -16,4 +16,6 @@ The Clicky Game is memory game built with React.
 ---
 
 ### Url:   https://jefferycarmichael.github.io/clickygame
+
+### GitHub Repository: https://github.com/JefferyCarmichael/clickgame_files.git
 
